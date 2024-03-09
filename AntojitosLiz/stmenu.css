@@ -1,0 +1,9 @@
+/* Estilos personalizados para las tarjetas */
+.card {
+    margin-bottom: 20px;
+}
+
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+}
